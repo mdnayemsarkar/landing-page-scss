@@ -194,9 +194,10 @@ header {
 }
 
 .conainer-i-rght img {
-  width: 300px;
+  width: 500px;
   height: 300px;
   margin-top: 150px;
+  border-radius: 50%;
 }
 
 .cntnr-i-round img {
